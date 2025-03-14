@@ -41952,3 +41952,10 @@ textarea:focus {
   color: #fff;
   margin-bottom: 0;
 }
+
+/*----------------------------------------*/
+/*  NEW INDEX CSS
+/*----------------------------------------*/
+.radius100{
+  border-radius:100%;
+}
