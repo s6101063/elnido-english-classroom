@@ -38420,7 +38420,7 @@ textarea:focus {
   margin-bottom: 6px;
 }
 .team .team-info .info span {
-  font-weight: 500;
+  font-weight: 0;
   letter-spacing: 0em;
   line-height: 1.58;
   font-size: 14px;
