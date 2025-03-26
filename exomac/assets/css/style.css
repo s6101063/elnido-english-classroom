@@ -41959,3 +41959,13 @@ textarea:focus {
 .radius100{
   border-radius:100%;
 }
+
+/*----------------------------------------*/
+/*  about us CSS
+/*----------------------------------------*/
+.history-list {
+  
+  display: grid;
+  
+  grid-gap: 62px 30px;
+}
